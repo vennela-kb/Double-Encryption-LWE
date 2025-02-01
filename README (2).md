@@ -161,11 +161,6 @@ We welcome contributions to improve this project. To contribute:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## ✉️ Contact
 For any questions, reach out to:
 - **Vennela Kothakonda** - Developer & Researcher
